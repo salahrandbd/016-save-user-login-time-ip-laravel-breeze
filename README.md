@@ -1,0 +1,1 @@
+This very basic project demonstrates how to store last login time and ip starting with  [laravel breeze](https://github.com/laravel/breeze). It is an implementation of the [linked video](https://www.youtube.com/watch?v=v4IRYiylQPs) by [Laravel Daily](https://www.youtube.com/@LaravelDaily). Best practices were intentionally ignored since it focuses on pure education.
